@@ -1,0 +1,10 @@
+[com.lomiri.Shell]
+background-picture-uri='file:///usr/share/backgrounds/rhino/rholling-rhino-default.png'
+light-mode=false
+
+[com.lomiri.Shell.Launcher]
+logo-picture-uri='file:///usr/share/icons/desktop-base/scalable/emblems/emblem-rhino.svg'
+home-button-background-color='#26184c'
+
+[com.lomiri.Shell.Greeter]
+background-picture-uri='file:///usr/share/backgrounds/rhino/rolling-rhino-default.png'
