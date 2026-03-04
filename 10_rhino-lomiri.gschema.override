@@ -8,3 +8,6 @@ home-button-background-color='#26184c'
 
 [com.lomiri.Shell.Greeter]
 background-picture-uri='file:///usr/share/wallpapers/rhino/blobs.png'
+
+[org.gnome.desktop.interface]
+color-scheme='prefer-dark'
